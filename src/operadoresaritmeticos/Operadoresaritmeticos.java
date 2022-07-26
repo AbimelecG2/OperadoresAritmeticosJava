@@ -38,19 +38,19 @@ public class Operadoresaritmeticos {
             switch(opcion){
                 case 1:
                     suma=numero1+numero2;
-                    System.out.println("\nLa respuesta de la suma es "+ suma);
+                    System.out.println("\nEl resultado de la suma es "+ suma);
                     break;
                 case 2:
                     resta=numero1-numero2;
-                    System.out.println("\nLa resta de la resta es "+ resta);
+                    System.out.println("\nEl resultado de la resta es "+ resta);
                     break;
                 case 3:
                     multiplicacion=numero1*numero2;
-                    System.out.println("\nLa respuesta de la multiplicacion es "+ multiplicacion);
+                    System.out.println("\nEl resultado de la multiplicacion es "+ multiplicacion);
                     break;
                 case 4:
                     division=numero1/numero2;
-                    System.out.println("\nLa respuesta de la division es "+ division);
+                    System.out.println("\nEl resultado de la division es "+ division);
                     break;
             
             }
